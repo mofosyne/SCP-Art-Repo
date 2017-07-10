@@ -12,6 +12,13 @@ For those that just need the art and do not care so much about git or adding to 
 
 https://github.com/mofosyne/SCP-Art-Repo/archive/master.zip
 
+## Examples
+
+![](./Letterhead/SCP_Logo_3.6-letterhead.png)
+![](./Letterhead/SCP_Logo_3.6-letterhead-guide.png)
+![](./Logo/v3.6/SCP_Logo-black.png)
+![](./SCP_Logo_3.6-letterhead-banner-only.png)
+
 ## Licence
 
 Creative Commons Attribution-ShareAlike 3.0 license https://creativecommons.org/licenses/by-sa/3.0/
