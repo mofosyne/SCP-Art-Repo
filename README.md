@@ -17,7 +17,7 @@ https://github.com/mofosyne/SCP-Art-Repo/archive/master.zip
 ![](./Letterhead/SCP_Logo_3.6-letterhead.png)
 ![](./Letterhead/SCP_Logo_3.6-letterhead-guide.png)
 ![](./Logo/v3.6/SCP_Logo-black.png)
-![](./SCP_Logo_3.6-letterhead-banner-only.png)
+![](./Letterhead/SCP_Logo_3.6-letterhead-banner-only.png)
 
 ## Licence
 
