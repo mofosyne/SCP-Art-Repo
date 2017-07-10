@@ -13,6 +13,9 @@
 * Also generated a banner style for potential use in reddit
 * Created a style guide to using this in a *found document* style of storytelling
 
+* https://www.reddit.com/r/SCP/comments/6mecrs/scp_art_repository_logo_in_svg_letterhead_style/
+* https://www.reddit.com/r/SCP/comments/6m7xtf/scp_letterheadlogo_style_proposal_suggestion/
+
 ## v3.5 ~ /u/GeoffreyYeung
 
 * Slightly darker colors
