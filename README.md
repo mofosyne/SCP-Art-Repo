@@ -14,7 +14,7 @@ https://github.com/mofosyne/SCP-Art-Repo/archive/master.zip
 
 ## Revision log
 
-[Who has contributed so far since v3.4](./Logo/Logo-Edit-Log.txt)
+[Who has contributed so far since v3.4](./Logo/Logo-Edit-Log.md)
 
 
 ## Examples
