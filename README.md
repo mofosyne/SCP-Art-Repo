@@ -14,9 +14,14 @@ https://github.com/mofosyne/SCP-Art-Repo/archive/master.zip
 
 ## Examples
 
+A black version with transparancy enabled in the svg source, so it can be used in various background.
+![](./Logo/v3.6/SCP_Logo-black.png)
+
+Letterhead style guide for found docuemtns stories:
 ![](./Letterhead/SCP_Logo_3.6-letterhead.png)
 ![](./Letterhead/SCP_Logo_3.6-letterhead-guide.png)
-![](./Logo/v3.6/SCP_Logo-black.png)
+
+Letterhead Banner if incorporating in a website instead.
 ![](./Letterhead/SCP_Logo_3.6-letterhead-banner-only.png)
 
 ## Licence
