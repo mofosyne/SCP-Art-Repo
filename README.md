@@ -12,6 +12,11 @@ For those that just need the art and do not care so much about git or adding to 
 
 https://github.com/mofosyne/SCP-Art-Repo/archive/master.zip
 
+## Revision log
+
+[Who has contributed so far since v3.4](./Logo/Logo-Edit-Log.txt)
+
+
 ## Examples
 
 A black version with transparancy enabled in the svg source, so it can be used in various background.
