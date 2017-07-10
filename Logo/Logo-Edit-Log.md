@@ -1,8 +1,8 @@
 # Revision Summary
 
-v3.6: reddit.com/u/mofosyne - Black/White version (With transparent mask) (2017)
-v3.5: reddit.com/u/GeoffreyYeung - Font Style Change To Adobe Hebrew (2016)
-v3.4: reddit.com/u/Opouly - Original Colourised Logo Update (2016)
+* v3.6: reddit.com/u/mofosyne - Black/White version (With transparent mask) (2017)
+* v3.5: reddit.com/u/GeoffreyYeung - Font Style Change To Adobe Hebrew (2016)
+* v3.4: reddit.com/u/Opouly - Original Colourised Logo Update (2016)
 
 
 
