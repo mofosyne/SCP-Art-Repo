@@ -1,5 +1,7 @@
 # SCP-Art-Repo
 
+![Current Logo](/Logo/v3.6/SCP_Logo-color.png)
+
 SCP - Secure Contain Protect Art Resources . E.g. letterheads etc... Style guide... for scp-wiki.net reddit.com/r/SCP/
 
 Feel free to push a "pull request" to this repository, if you got any common SCP art that can be reused.
